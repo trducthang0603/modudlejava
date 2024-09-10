@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/AOP/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AOP/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Thymeleaf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Thymeleaf/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/helloworld/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/helloworld/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jdbc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/logging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/logging/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/messaging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/messaging/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simple_module/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simple_module/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/singleton/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/singleton/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/singleton_prototype/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/singleton_prototype/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-hazelcast/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-hazelcast/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webmvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webmvc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/websocket/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/websocket/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

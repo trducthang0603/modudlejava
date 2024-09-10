@@ -1,0 +1,7 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Öÿäù8´Æã®›2
+T	java:S106"9Replace this use of System.out or System.err by a logger.(îóŞf8ÏÇæ®›2
+h
+java:S1128"KRemove this unused import 'org.springframework.context.ApplicationContext'.(»Ô»¿8ÌŞ¡¦2
+‚
+java:S1128"fRemove this unused import 'org.springframework.context.annotation.AnnotationConfigApplicationContext'.(€¡¹;8ÍŞ¡¦2

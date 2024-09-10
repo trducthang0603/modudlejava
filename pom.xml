@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>tech.forme</groupId>
+    <artifactId>teshforme</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>helloworld</module>
+        <module>singleton_prototype</module>
+        <module>singleton</module>
+        <module>Thymeleaf</module>
+        <module>AOP</module>
+        <module>webmvc</module>
+        <module>jdbc</module>
+        <module>simple_module</module>
+        <module>logging</module>
+        <module>websocket</module>
+        <module>messaging</module>
+        <module>spring-boot-hazelcast</module>
+        <module>kafka</module>
+    </modules>
+    <properties>
+        <spring.version>6.1.8</spring.version>
+        <tomcat.version>10.1.25</tomcat.version>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <aspectj.version>1.9.22.1</aspectj.version>
+        <lombok.version>1.18.32</lombok.version>
+        <jackson.version>2.17.1</jackson.version>
+        <hazelcast.version>5.4.0</hazelcast.version>
+        <jakarta.websocket.version>2.0.0</jakarta.websocket.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <spring.boot.version>3.3.3</spring.boot.version>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>6.1.8</version>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.30</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.thymeleaf</groupId>
+            <artifactId>thymeleaf-spring6</artifactId>
+            <version>3.1.2.RELEASE</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.8.1</version>
+                <configuration>
+                    <source>${maven.compiler.source}</source>
+                    <target>${maven.compiler.target}</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>
